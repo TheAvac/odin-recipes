@@ -1,1 +1,2 @@
 # odin-recipes
+"In this project I'm practicing with the fundamentals of html and git manipulation. For this practice I will create connections between pages in my website so that the children pages represents some meals with their ingredients and how to cook them."
